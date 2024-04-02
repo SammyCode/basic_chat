@@ -19,6 +19,7 @@ class ChatProvider extends ChangeNotifier {
     if (text.endsWith('?')) {
       herReply();
     }
+    // hola de neuvo
 
     notifyListeners();
     moveScrollToBottom();
