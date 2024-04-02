@@ -8,6 +8,7 @@ import 'package:yes_no_app/presentation/widgets/shared/message_field_box.dart';
 
 class ChatScreen extends StatelessWidget {
   const ChatScreen({super.key});
+  // Hola mundo
 
   @override
   Widget build(BuildContext context) {
